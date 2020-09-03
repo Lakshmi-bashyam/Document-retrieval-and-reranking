@@ -1,0 +1,9 @@
+1,2,3,4,5,6,7,8,9,10 - related to tf-idf in title
+11,12 - bm25 of title
+16-25 - tfidf in abstract
+26-27 - bm25 of abstract
+31-40 - tfidf of both
+41-42 - bm25 of both
+|C| = total number of documents in the document collection
+|d| = length of the document. i.e., number of words in the document
+

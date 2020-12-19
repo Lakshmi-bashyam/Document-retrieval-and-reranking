@@ -1,4 +1,4 @@
-Document retrieval and re-ranking
+# Document retrieval and re-ranking
 
  **Name: Lakshmi Rajendra Bashyam
 Id: 2581455
